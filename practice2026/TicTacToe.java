@@ -1,6 +1,6 @@
 package practice2026;
 
-
+///
 enum Symbol {
     X,
     O, 
