@@ -38,6 +38,7 @@ class Vechile {
     }
 }
 
+
 class ParkingSpot {
     String id;
     Vechile parkedVechile;
